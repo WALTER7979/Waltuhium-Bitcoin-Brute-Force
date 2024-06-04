@@ -19,7 +19,7 @@
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
-# Waltuhium Bitoin Brute Force
+# Waltuhium Bitcoin Brute Force
 This script is designed to automatically generate seed phrases and check balances for Bitcoin networks. If a wallet with a non-zero balance is found, the wallet's information (address, mnemonic, private key, and balances) is logged and saved to a file named result.txt.
 
 ![Preview](https://raw.githubusercontent.com/promethron/Prometheus-Tron-Brute-Force/main/preview.png)
